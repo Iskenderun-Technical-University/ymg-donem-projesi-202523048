@@ -1,0 +1,28 @@
+C:\Users\DELL\source\repos\Papatya Pansiyon Kyıt Sistemi\Papatya Pansiyon Kyıt Sistemi\bin\Debug\Papatya Pansiyon Kyıt Sistemi.exe.config
+C:\Users\DELL\source\repos\Papatya Pansiyon Kyıt Sistemi\Papatya Pansiyon Kyıt Sistemi\bin\Debug\Papatya Pansiyon Kyıt Sistemi.exe
+C:\Users\DELL\source\repos\Papatya Pansiyon Kyıt Sistemi\Papatya Pansiyon Kyıt Sistemi\bin\Debug\Papatya Pansiyon Kyıt Sistemi.pdb
+C:\Users\DELL\source\repos\Papatya Pansiyon Kyıt Sistemi\Papatya Pansiyon Kyıt Sistemi\obj\Debug\Papatya Pansiyon Kyıt Sistemi.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Papatya Pansiyon Kyıt Sistemi\Papatya Pansiyon Kyıt Sistemi\obj\Debug\Papatya_Pansiyon_Kyıt_Sistemi.Properties.Resources.resources
+C:\Users\DELL\source\repos\Papatya Pansiyon Kyıt Sistemi\Papatya Pansiyon Kyıt Sistemi\obj\Debug\Papatya Pansiyon Kyıt Sistemi.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Papatya Pansiyon Kyıt Sistemi\Papatya Pansiyon Kyıt Sistemi\obj\Debug\Papatya Pansiyon Kyıt Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Papatya Pansiyon Kyıt Sistemi\Papatya Pansiyon Kyıt Sistemi\obj\Debug\Papatya Pansiyon Kyıt Sistemi.exe
+C:\Users\DELL\source\repos\Papatya Pansiyon Kyıt Sistemi\Papatya Pansiyon Kyıt Sistemi\obj\Debug\Papatya Pansiyon Kyıt Sistemi.pdb
+C:\Users\DELL\source\repos\Papatya Pansiyon Kyıt Sistemi\Papatya Pansiyon Kyıt Sistemi\obj\Debug\Papatya_Pansiyon_Kyıt_Sistemi.FrmYeniMusteriEkle.resources
+C:\Users\DELL\source\repos\Papatya Pansiyon Kyıt Sistemi\Papatya Pansiyon Kyıt Sistemi\obj\Debug\Papatya_Pansiyon_Kyıt_Sistemi.FrmAdminGiris.resources
+C:\Users\DELL\source\repos\Papatya Pansiyon Kyıt Sistemi\Papatya Pansiyon Kyıt Sistemi\obj\Debug\Papatya_Pansiyon_Kyıt_Sistemi.FrmAnaForm.resources
+C:\Users\DELL\source\repos\Papatya Pansiyon Kyıt Sistemi\Papatya Pansiyon Kyıt Sistemi\obj\Debug\Papatya_Pansiyon_Kyıt_Sistemi.FrmOdalar.resources
+C:\Users\DELL\source\repos\Papatya Pansiyon Kyıt Sistemi\Papatya Pansiyon Kyıt Sistemi\obj\Debug\Papatya_Pansiyon_Kyıt_Sistemi.FrmMusteriler.resources
+C:\Users\DELL\source\repos\Papatya Pansiyon Kyıt Sistemi\Papatya Pansiyon Kyıt Sistemi\obj\Debug\Papatya_Pansiyon_Kyıt_Sistemi.FrmGelirGider.resources
+C:\Users\DELL\source\repos\Papatya Pansiyon Kyıt Sistemi\Papatya Pansiyon Kyıt Sistemi\obj\Debug\Papatya_Pansiyon_Kyıt_Sistemi.FrmStoklar.resources
+C:\Users\DELL\source\repos\Papatya Pansiyon Kyıt Sistemi\Papatya Pansiyon Kyıt Sistemi\bin\Debug\Interop.WMPLib.dll
+C:\Users\DELL\source\repos\Papatya Pansiyon Kyıt Sistemi\Papatya Pansiyon Kyıt Sistemi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\source\repos\Papatya Pansiyon Kyıt Sistemi\Papatya Pansiyon Kyıt Sistemi\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\source\repos\Papatya Pansiyon Kyıt Sistemi\Papatya Pansiyon Kyıt Sistemi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\source\repos\Papatya Pansiyon Kyıt Sistemi\Papatya Pansiyon Kyıt Sistemi\obj\Debug\Papatya Pansiyon Kyıt Sistemi.csproj.ResolveComReference.cache
+C:\Users\DELL\source\repos\Papatya Pansiyon Kyıt Sistemi\Papatya Pansiyon Kyıt Sistemi\obj\Debug\Papatya_Pansiyon_Kyıt_Sistemi.FrmRadyoDinle.resources
+C:\Users\DELL\source\repos\Papatya Pansiyon Kyıt Sistemi\Papatya Pansiyon Kyıt Sistemi\obj\Debug\Papatya_Pansiyon_Kyıt_Sistemi.FrmGazeteler.resources
+C:\Users\DELL\source\repos\Papatya Pansiyon Kyıt Sistemi\Papatya Pansiyon Kyıt Sistemi\obj\Debug\Papatya_Pansiyon_Kyıt_Sistemi.FrmMesajlar.resources
+C:\Users\DELL\source\repos\Papatya Pansiyon Kyıt Sistemi\Papatya Pansiyon Kyıt Sistemi\bin\Debug\Papatya Pansiyon Kyıt Sistemi.exe.manifest
+C:\Users\DELL\source\repos\Papatya Pansiyon Kyıt Sistemi\Papatya Pansiyon Kyıt Sistemi\bin\Debug\Papatya Pansiyon Kyıt Sistemi.application
+C:\Users\DELL\source\repos\Papatya Pansiyon Kyıt Sistemi\Papatya Pansiyon Kyıt Sistemi\obj\Debug\Papatya Pansiyon Kyıt Sistemi.exe.manifest
+C:\Users\DELL\source\repos\Papatya Pansiyon Kyıt Sistemi\Papatya Pansiyon Kyıt Sistemi\obj\Debug\Papatya Pansiyon Kyıt Sistemi.application
